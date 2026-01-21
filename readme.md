@@ -91,3 +91,5 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+
+- [LastTAB-return](https://github.com/armor-cage/LastTAB-return) - Great tab management, you can manage all the tabs that don't fit in the browser.
